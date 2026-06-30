@@ -1,4 +1,3 @@
-[![MasterHead](https://i.postimg.cc/J4scHwxN/photo-2024-03-30-08-14-37.jpg)
 
 <h1 align="center">Hi 👋, I'm Yusur</h1>
 <h3 align="center">Aspiring Computer Engineering student focused on FinTech, Blockchain, AI, and compliance-aware payment systems.</h3>

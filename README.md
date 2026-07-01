@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Yusur</h1>
 <h3 align="center">Aspiring Computer Engineering student focused on FinTech, Blockchain, AI, and compliance-aware payment systems.</h3>
 
-- 🔭 I’m currently working on [Compliance-Aware Human-Verified Cross-Border Payment Architecture](https://github.com/users/Testnetor/projects/1)
+-  I’m currently working on [Compliance-Aware Human-Verified Cross-Border Payment Architecture](https://github.com/users/Testnetor/projects/1)
 
-- 🌱 I’m currently learning **Python, FastAPI, Solidity, blockchain infrastructure, financial compliance, and IELTS Academic English**
+-  I’m currently learning **Python, FastAPI, Solidity, blockchain infrastructure, financial compliance, and IELTS Academic English**
 
-- 👯 I’m looking to collaborate on [Blockchain-based financial technology and payment infrastructure projects](Open to collaboration)
+-  I’m looking to collaborate on [Blockchain-based financial technology and payment infrastructure projects](Open to collaboration)
 
 - 🤝 I’m looking for help with [Regulatory compliance validation, banking integration assumptions, and Humanode production integration](Open to expert feedback)
 
